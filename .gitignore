@@ -1,0 +1,6 @@
+# Project exclude paths
+/ly-client/target/
+/ly-common/target/
+/ly-gateway/target/
+/ly-item/target/
+/ly-pojo/ly-pojo-item/target/
